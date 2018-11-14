@@ -10,7 +10,7 @@ client.on('ready', async() => {
 var server = "510227184216965148"; // ايدي السررفر
 var channel = "511739393053032448";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('احمد بيتعلم')
+    client.guilds.get(server).channels.get(channel).send('بوووووووم باع')
     },305);
 })
 
